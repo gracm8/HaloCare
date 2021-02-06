@@ -77,7 +77,7 @@ a, a:visited {
 	transition: all 0.3s ease-in-out;
 }
 a:hover, a:focus {
-	color: #000000;
+	color: #034e4a;
 }
 
 /* ===================================================================
@@ -563,7 +563,7 @@ input[type="submit"]:focus,
 input[type="reset"]:focus,
 input[type="button"]:focus {
 	background: #bebebe;
-	color: #000000;
+	color: #034e4a;
 	outline: 0;
 }
 
@@ -814,7 +814,6 @@ header .logo {
 	position: absolute;
 	left: 26px;
 	top: 0;
-	margin-top: 78px;
 }
 header .logo a {
 	display: block;
@@ -822,10 +821,10 @@ header .logo a {
 	padding: 0;
 	outline: 0;
 	border: none;
-	width: 97px;
-	height: 84px;
+	width: 250px;
+	height: 250px;
 	background: url("../images/logo.png") no-repeat center;
-	background-size: 97px 84px;
+	background-size: 250px 250px;
 	font: 0/0 a;
 	text-shadow: none;
 	color: transparent;
@@ -842,7 +841,7 @@ header .logo a {
 header .social-links {
 	position: absolute;
 	right: 20px;
-	top: 78px;
+	top: 150px;
 	text-align: right;
 }
 
