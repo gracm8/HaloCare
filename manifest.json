@@ -1,0 +1,26 @@
+{
+  "short_name": "YourRepair",
+  "name": "YourRepair",
+  "icons": [
+    {
+      "src": "/assets/img/manifest-logo-192.jpg",
+      "type": "image/jpg",
+      "sizes": "192x192"
+    },
+    {
+      "src": "/assets/img/manifest-logo-256.jpg",
+      "type": "image/jpg",
+      "sizes": "256x256"
+    },
+    {
+      "src": "/assets/img/manifest-logo-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#122048",
+  "display": "standalone",
+  "scope": "/",
+  "theme_color": "#122048"
+}
